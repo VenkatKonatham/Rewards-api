@@ -1,1 +1,45 @@
 # Rewards-api
+# Sample-input
+{
+"transactions":[
+  {
+  "TransactionName":"ven",
+  "total":"30",
+  "date":"2020-06-24"
+},
+{
+  "TransactionName":"ven",
+  "total":"31",
+  "date":"2020-04-24"
+},
+{
+  "TransactionName":"ven",
+  "total":"20",
+  "date":"2020-04-24"
+}
+,
+{
+  "TransactionName":"ven",
+  "total":"10",
+  "date":"2020-01-24"
+}
+,
+{
+  "TransactionName":"ven",
+  "total":"150",
+  "date":"2020-01-24"
+}
+,
+{
+  "TransactionName":"ven",
+  "total":"25",
+  "date":"2020-01-24"
+}
+,
+{
+  "TransactionName":"ven",
+  "total":"35",
+  "date":"2020-02-24"
+}
+]   
+}
